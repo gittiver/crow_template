@@ -1,0 +1,10 @@
+{
+  "name": "crow",
+  "version-string": "master",
+  "dependencies": [
+    "asio",
+    "openssl",
+    "zlib"
+  ],
+  "builtin-baseline": "5c7d3a872dd861817fc812647176d5076085a7eb"
+}
