@@ -21,7 +21,7 @@ include(${CMAKE_SOURCE_DIR}/cmake/CPM.cmake)
 option(${PROJECT_NAME}_ENABLE_TESTS "enable testing" OFF)
 
 CPMAddPackage(Crow
-  VERSION 1.2.0
+  VERSION 1.2.1.2
   GITHUB_REPOSITORY CrowCpp/Crow
   OPTIONS
   "CROW_BUILD_EXAMPLES Off"
